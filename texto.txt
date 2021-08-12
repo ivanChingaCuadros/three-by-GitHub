@@ -1,2 +1,6 @@
 
-Hola que tal - intento numero 1 - modificando mi texto.txt
+Hola que tal - intento numero 1 - modificado mi texto.txt
+añado 
+
+CUARTO MENSAJE LOCO AÑADIDO
+ercer texto que añado y no se borra
