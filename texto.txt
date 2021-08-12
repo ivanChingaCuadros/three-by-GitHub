@@ -1,2 +1,1 @@
-
-Hola que tal - intento numero 1 - modificando mi texto.txt
+Modificamos en master pero cambio de rama - copia mi comit de mi rama master a mi nueva rama llamada eas -- cambio de texto- para empezar a escribir es necesario pulsar la tecla S 
