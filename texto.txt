@@ -1,6 +1,1 @@
-
-Hola que tal - intento numero 1 - modificado mi texto.txt
-añado 
-
-CUARTO MENSAJE LOCO AÑADIDO
-ercer texto que añado y no se borra
+Modificamos en master pero cambio de rama - copia mi comit de mi rama master a mi nueva rama llamada eas -- cambio de texto- para empezar a escribir es necesario pulsar la tecla S 
